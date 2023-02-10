@@ -1,9 +1,11 @@
 //your code here
-.accio p{
+.accio{
 	width:150px;
 	height:150px;
+background-color:black;
+	}
+p{
 	color:white;
-	background-color:black;
 	margin-left:32px;
-	padding:10px
+	padding:10px;
 }
